@@ -3,3 +3,17 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  align-content: center;
+}
+
+img {
+  align-items: center;
+  font-size: smaller;
+  text-align: center;
+}
+
+link {
+  align-items: center;
+}
